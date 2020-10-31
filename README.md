@@ -1,4 +1,4 @@
-# AndroidQStorageSample   编译版本大于等于29的适配，Android10以上
+# AndroidQStorageSample   编译版本大于等于29的适配，Android10及以上的沙盒存储
 
 ## 是什么？
 
